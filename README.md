@@ -1,2 +1,3 @@
-# dsa-asoslari
+# Dsa-asoslari
 MA'LUMOT TUZILMALARI VA ALGORITMLAR
+
